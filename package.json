@@ -1,0 +1,25 @@
+{
+  "name": "buxomblonde",
+  "version": "0.0.2",
+  "description": "minimalist incomplete XML parser for TypeScript",
+  "main": "example.ts",
+  "scripts": {
+    "test": "fuck you!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none yet"
+  },
+  "keywords": [
+    "XML",
+    "buxom",
+    "blonde",
+    "TypeScript",
+    "TS"
+  ],
+  "author": "Sgt. Nukem",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
